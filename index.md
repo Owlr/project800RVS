@@ -28,12 +28,5 @@
         }">Test Hypothesis!</button>
     <br>
     <br>
-    <button type="button" onclick="
-    var donate= prompt('How much would you like to donate?') 
-    alert (donate)
-    if (donate == 'hundred') { 
-        alert ('Thank you for your generous contribution of 100 dollars!')
-        }
-    else {alert (Thanks for your contribution!)}">Donate to Project 800</button>
-    <br>
+   
 
