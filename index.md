@@ -26,5 +26,4 @@
     if (hypoTest == 'hypothesis one') { 
         alert ('You are testing the pressure hypothesis, or Hypothesis 1...Loading...connecting to Z10...Go to ___ to view the results!')
         }">Test Hypothesis!</button>
-</body>
-</html>
+
