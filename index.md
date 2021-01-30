@@ -33,5 +33,5 @@
     if (donate == 'hundred') { 
         alert ('Thank you for your generous contribution of 100 dollars!')
         }
-    else {alert (Thanks for your contribution!)}">Ship Something!</button>
+    else {alert (Thanks for your contribution!)}">Donate to Project 800</button>
 
