@@ -30,6 +30,7 @@
     <br>
     <button type="button" onclick="
     var donate= prompt('How much would you like to donate?') 
+    alert (donate)
     if (donate == 'hundred') { 
         alert ('Thank you for your generous contribution of 100 dollars!')
         }
