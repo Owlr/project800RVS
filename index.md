@@ -26,4 +26,12 @@
     if (hypoTest == 'hypothesis one') { 
         alert ('You are testing the pressure hypothesis, or Hypothesis 1...Loading...connecting to Z10...Go to ___ to view the results!')
         }">Test Hypothesis!</button>
+    <br>
+    <br>
+    <button type="button" onclick="
+    var donate= prompt('How much would you like to donate?') 
+    if (donate == 'hundred') { 
+        alert ('Thank you for your generous contribution of 100 dollars!')
+        }
+    else {alert (Thanks for your contribution!)}">Ship Something!</button>
 
