@@ -35,4 +35,5 @@
         alert ('Thank you for your generous contribution of 100 dollars!')
         }
     else {alert (Thanks for your contribution!)}">Donate to Project 800</button>
+    <br>
 
