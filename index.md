@@ -24,7 +24,7 @@
         <button type="button" onclick="
     var hypoTest = prompt('What hypothesis would you like to test?') 
     if (hypoTest == 'hypothesis one') { 
-        alert ('Testing for Hypothesis 1 has been iniatiated. There is currently not enough data to support a valid conclusion. Please check back soon for the results!')
+        alert ('Hypothesis 1 has been proven true!')
         }">Test Hypothesis!</button>
     <br>
     <br>
