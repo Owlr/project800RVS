@@ -10,6 +10,7 @@
     </style>
 </head>
 <body>
+<a href="https://owlr.github.io/discoveries/">Discoveries</a>
 <h1>You are currently at the Remote Volunteer System for Project 800</h1>
 <h2>Before you can start volunteering, you need to fill out a volunteer waiver. This is very important and can be found at https://forms.gle/xTftsg643mGk23PQ9.<h2>
     <script src="project800RVS.js"></script>
